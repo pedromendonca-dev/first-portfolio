@@ -82,7 +82,7 @@ body {
 .apresentacao__conteudo__texto__curriculo{
   font-size: 1.5rem;
   font-family: var(--montserrat);
-  color: var(--third-color);
+  color: var(--second-color);
 }
 
 .apresentacao__links{
