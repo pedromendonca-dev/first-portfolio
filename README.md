@@ -1,6 +1,6 @@
 <h1>🚀Primeiro Portfolio</h1>
 
-<p> Meu primeiro portfolio desenvolvido por mim usando as linguagens HTML e CSS, futuramente irei atualiza-lo utilizando as linguagens que aprimararei na minha carreira como desenvolvedor </p>
+<p> Meu primeiro portfolio desenvolvido por mim usando as linguagens HTML e CSS, futuramente irei atualiza-lo utilizando as linguagens que aprimorarei na minha carreira como desenvolvedor </p>
 
 <h1>🎁 Agradecimentos </h1>
 
