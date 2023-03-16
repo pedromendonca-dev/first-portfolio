@@ -102,18 +102,23 @@ body {
 
 .apresentacao__links__caixa{
   display: flex;
+  text-align: center;
   justify-content: center;
   gap: 16px;
-  text-align: center;
+
   width: 75%;
+  padding: 22px 0;
+
   border-radius: 8px;
+  border: 2px solid var(--third-color);
+
   font-size: 1.5rem;
   font-weight: 600;
-  padding: 22px 0;
   text-decoration: none;
+
   color: var(--second-color);
   font-family: var(--montserrat);
-  border: 2px solid var(--third-color);
+  
 }
 
 .apresentacao__links__caixa:hover{
@@ -137,15 +142,18 @@ body {
 
 .rodape{
   display: flex;
+  justify-content: center;
   text-align: center;
+  flex-direction: column;
+  
+  height: 600;
   padding: 1.5rem;
   background-color: var(--pontas-pagina);
   color:#EEEEEE;
   font-family:var(--montserrat);
   font-size: 1.5rem;
-  height: 600;
-  justify-content: center;
-  flex-direction: column;
+  
+  
 }
 
 
